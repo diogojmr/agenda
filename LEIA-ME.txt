@@ -1,0 +1,9 @@
+AGENDA COMERCIAL
+
+1. Faça duplo clique no ficheiro index.html.
+2. O site abre no navegador e fica logo pronto a usar.
+3. As alterações são guardadas automaticamente nesse navegador.
+
+Para manter os dados, use sempre o mesmo navegador e não limpe os dados de
+navegação associados ao ficheiro. Esta primeira versão não usa contas nem um
+servidor online.
